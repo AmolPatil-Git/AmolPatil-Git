@@ -1,4 +1,4 @@
-### Hi there, I'm Amol! 👋   <img src="./images/4.gif" width = "300" height = "300" align = "center"> 
+### Hi there, I'm Amol! 👋   <img src="./images/2.png" width = "300" height = "300" align = "center"> 
 
 ### I'm a software developer and i development mobile applications.   
 
