@@ -10,14 +10,14 @@
 
 <!---### Hi there, I'm Amol! 👋   <img src="./images/1.gif" width = "300" height = "300" align = "center"> 
 --->
-### I'm a software developer and i development mobile applications.   
+### I'm a software developer and i development mobile applications.   <img src="./images/amol.gif" width = "300" height = "300" align = "right">
 
 
 
 - 👋 Hi, I’m @AmolPatil-Git
 - 👀 I’m interested in mobile Application Languages 📱
 - 😄 Pronouns: Software Developer
-- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.<img src="./images/amol.gif" width = "300" height = "300" align = "right">
+- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 
 
 <!---- 🌱 I’m currently learning ...
