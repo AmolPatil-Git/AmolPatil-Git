@@ -9,7 +9,9 @@
 <!---### Hi there, I'm Amol! 👋   <img src="./images/1.gif" width = "300" height = "300" align = "center"> 
 --->
 ### I'm a software developer and i development mobile applications.   
+
 <img src="./images/2.png" width = "300" height = "300" align = "center"> 
+
 - 👋 Hi, I’m @AmolPatil-Git
 - 👀 I’m interested in mobile Application Languages 📱
 - 😄 Pronouns: Software Developer
