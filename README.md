@@ -1,6 +1,8 @@
 ### Hi there, I'm Amol! 👋
 
-<img src="./images/amol.gif" width = "300" height = "300" align = "center">
+<img src="./images/2.png" width = "300" height = "300" align = "center"> 
+
+
 
 
 
@@ -10,12 +12,12 @@
 --->
 ### I'm a software developer and i development mobile applications.   
 
-<img src="./images/2.png" width = "300" height = "300" align = "center"> 
+
 
 - 👋 Hi, I’m @AmolPatil-Git
 - 👀 I’m interested in mobile Application Languages 📱
 - 😄 Pronouns: Software Developer
-- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
+- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.<img src="./images/amol.gif" width = "300" height = "300" align = "right">
 
 
 <!---- 🌱 I’m currently learning ...
