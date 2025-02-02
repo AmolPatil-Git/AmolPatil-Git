@@ -1,9 +1,49 @@
+# Hi there, I'm Amol! 👋  
+<img src="./images/2.png" width="300" height="300" alt="Amol's Profile Image" align="center">  
+
+<!---  
+# Hi there, I'm Amol! 👋  
+<img src="./images/1.gif" width="300" height="300" alt="Animated GIF" align="center">  
+--->  
+
+## I'm a Software Developer specializing in Mobile App Development 🚀  
+<img src="./images/amol.gif" width="300" height="300" alt="Amol's Coding GIF" align="right">  
+
+### About Me  
+- 👋 Hi, I’m **Amol Patil** (@AmolPatil-Git)  
+- 👀 Passionate about **Mobile Application Development** 📱  
+- 🎯 Skilled in **Flutter, Android, iOS, and MERN Stack**  
+- 🔥 Always eager to explore **new technologies** and build **innovative software solutions**  
+- 😄 Pronouns: **Software Developer**  
+- 💡 Motto: _"Never stop creating new ideas!"_  
+
+---
+
+### 🚀 Tech Stack & Tools  
+- **Mobile:** Flutter, Android (Java/Kotlin), iOS (Swift)  
+- **Web:** MERN Stack (MongoDB, Express.js, React, Node.js)  
+- **Version Control:** Git & GitHub  
+- **Tools & IDEs:** VS Code, Android Studio, Xcode  
+
+---
+
+### 📫 Let's Connect  
+[![GitHub](https://img.shields.io/badge/GitHub-@AmolPatil--Git-181717?style=flat&logo=github)](https://github.com/AmolPatil-Git)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amol%20Patil-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=flat&logo=twitter)](YOUR_TWITTER_URL)  
+
+---  
+
+⭐ **Feel free to check out my repositories and contribute!**  
+
+
+
+<!---  
 ### Hi there, I'm Amol! 👋
 <img src="./images/2.png" width = "300" height = "300" align = "center"> 
 
 
-<!---### Hi there, I'm Amol! 👋   <img src="./images/1.gif" width = "300" height = "300" align = "center"> 
---->
+
 ### I'm a software developer and i development mobile applications.   <img src="./images/amol.gif" width = "300" height = "300" align = "right">
 
 
@@ -12,14 +52,5 @@
 - 😄 Pronouns: Software Developer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 
+--->
 
-<!---- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<!---
-AmolPatil-Git/AmolPatil-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
