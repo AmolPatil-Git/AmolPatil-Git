@@ -1,23 +1,25 @@
 # Hi there, I'm Amol! 👋  
 
 <div align="center">
-  <img src="./images/2.png" width="200" height="200" alt="Amol's Profile Image">
-</div>
-
-## I'm a Software Developer specializing in Mobile App Development 🚀  
-
-<div align="right">
-  <img src="./images/amol.gif" width="200" height="200" alt="Amol's Coding GIF">
+  <img src="./images/2.png" width="150" height="150" alt="Amol's Profile Image">
+  <h3>Software Developer Specializing in Mobile App Development 🚀</h3>
 </div>
 
 ### About Me  
-- 👋 Hi, I’m **Amol Patil** [(@AmolPatil-Git)](https://github.com/AmolPatil-Git)  
-- 🌍 Visit my website: [devamolpatil.in](https://devamolpatil.in/)  
-- 👀 Passionate about **Mobile Application Development** 📱  
-- 🎯 Skilled in **Flutter, Android, iOS, and MERN Stack**  
-- 🔥 Always eager to explore **new technologies** and build **innovative software solutions**  
-- 😄 Pronouns: **Software Developer**  
-- 💡 Motto: _"Never stop creating new ideas!"_  
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    - 👋 Hi, I’m **Amol Patil** [(@AmolPatil-Git)](https://github.com/AmolPatil-Git)  
+    - 🌍 Visit my website: [devamolpatil.in](https://devamolpatil.in/)  
+    - 👀 Passionate about **Mobile Application Development** 📱  
+    - 🎯 Skilled in **Flutter, Android, iOS, and MERN Stack**  
+    - 🔥 Always eager to explore **new technologies** and build **innovative software solutions**  
+    - 😄 Pronouns: **Software Developer**  
+    - 💡 Motto: _"Never stop creating new ideas!"_  
+  </div>
+  <div>
+    <img src="./images/amol.gif" width="150" height="150" alt="Amol's Coding GIF">
+  </div>
+</div>
 
 ---
 
@@ -68,10 +70,10 @@
   <a href="https://www.instagram.com/amol1781994/">
     <img src="https://img.shields.io/badge/Instagram-@amol1781994-E4405F?style=flat&logo=instagram" alt="Instagram">
   </a>
-  <a href="https://www.clsfacebook.com/profile.php?id=100008380546793">
+  <a href="https://www.facebook.com/profile.php?id=100008380546793">
     <img src="https://img.shields.io/badge/Facebook-Amol%20Patil-1877F2?style=flat&logo=facebook" alt="Facebook">
   </a>
-</リー
+</div>
 
 ---
 
