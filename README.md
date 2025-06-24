@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Hi+I'm+Amol+Patil!+👋;Software+Developer+%7C+Mobile+%26+Web+Dev;Flutter+%7C+MERN+%7C+Next.js+%7C+GraphQL;Let's+build+something+amazing+💻" alt="Typing SVG" />
 </p>
 
+
 <!-- 👤 Profile picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/103609908?v=4" width="150" height="150" style="border-radius: 50%" alt="Amol Patil Profile Picture" />
