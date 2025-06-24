@@ -6,7 +6,7 @@
 
 <!-- 👤 Profile picture -->
 <p align="center">
-  <img src="./images/amol.gif" width="300" height="300" alt="Amol Patil Profile Picture" align="right" style="border-radius: 50%;" />
+  <img src="./images/amol.gif" width="150" height="150" alt="Amol Patil Profile Picture" align="right" style="border-radius: 50%;" />
  <!--  <img src="https://avatars.githubusercontent.com/u/103609908?v=4" width="150" height="150" style="border-radius: 50%" alt="Amol Patil Profile Picture" />-->
 </p>
 <!-- ✅ Typing animation (works on GitHub) -->
