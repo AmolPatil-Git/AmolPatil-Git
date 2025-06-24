@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Amol Patil! 👋</h1>
 
 <!-- ✅ Typing animation (works on GitHub) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hi+I'm+Amol+Patil!;Flutter+%7C+MERN+%7C+Next.js+%7C+GraphQL;Let's+Build+Awesome+Things+💻" alt="Typing Animation" />
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <!-- 👤 Profile picture -->
 <p align="center">
