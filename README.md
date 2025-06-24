@@ -2,7 +2,7 @@
 
 <div align="center">
   # Hi there, I'm Amol! 👋  
-  <img src="./images/2.png" width="150" height="150" alt="Amol's Profile Image">
+  
   <h3>Software Developer Specializing in Mobile App Development 🚀</h3>
 </div>
 
