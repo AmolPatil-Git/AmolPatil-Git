@@ -6,8 +6,10 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/103609908?v=4" width="150" height="150" style="border-radius: 50%" alt="Amol Patil Profile Picture" />
 </p>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Amol+Patil;+%F0%9F%92%BB+Software+Developer;%7C+Flutter+%7C+Android+%7C+iOS+%7C+MERN+;MongoDB%2C+Express%2C+React%2C+Node;%7C+Next.js+%7C+GraphQL;%F0%9F%9A%80+Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
-<!-- 🔗 Social badges -->
+</p>
+  <!-- 🔗 Social badges -->
 <p align="center">
   <a href="https://devamolpatil.in">
     <img src="https://img.shields.io/badge/Portfolio-devamolpatil.in-orange?style=flat-square&logo=google-chrome" />
