@@ -8,6 +8,8 @@
 
 ## I'm a Software Developer specializing in Mobile App Development 🚀  
 <img src="./images/amol.gif" width="300" height="300" alt="Amol's Coding GIF" align="right">  
+<img src="./images/amol.gif" width="300" height="300" alt="Amol's Coding GIF" align="right" style="border-radius: 50%;" />
+
 
 ### About Me  
 - 👋 Hi, I’m **Amol Patil** [(@AmolPatil-Git)](https://github.com/AmolPatil-Git)  
