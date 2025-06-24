@@ -1,94 +1,74 @@
-<div align="center">
-  # Hi there, I'm Amol! 👋  
-  
-  <h3>Software Developer Specializing in Mobile App Development 🚀</h3>
-</div>
+<h1 align="center">Hi there, I'm Amol Patil! 👋</h1>
+<p align="center">
+  <a href="https://devamolpatil.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-devamolpatil.in-orange?style=flat&logo=Google-Chrome" />
+  </a>
+  <a href="https://github.com/AmolPatil-Git" target="_blank">
+    <img src="https://img.shields.io/github/followers/AmolPatil-Git?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/amol-patil-372641165/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amol%20Patil-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
 
-### About Me  
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    <img src="./images/amol.gif" width="150" height="150" alt="Amol Patil's Coding GIF">
-  </div>
-  <div>
-    - 👋 I’m **Amol Patil**  
-      GitHub: https://github.com/AmolPatil-Git  
-    - 🌍 Website: https://devamolpatil.in/  
-    - 👀 Passionate about **Mobile Application Development** 📱  
-    - 🎯 Skills:  
-      ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-      ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-      ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-      ![MERN Stack](https://img.shields.io/badge/MERN_Stack-000000?style=flat&logo=mongodb&logoColor=white)
-    - 🔥 Eager to explore **new technologies** and build **innovative software solutions**  
-    - 😄 Pronouns: **Software Developer**  
-    - 💡 Motto: _"Never stop creating new ideas!"_  
-  </div>
+---
+
+## 🚀 About Me
+
+I'm a **Software Developer** from 🇮🇳 India, passionate about creating robust and beautiful apps using **Flutter**, **React**, and **MERN Stack** technologies.
+
+- 💻 4+ years in Mobile App Development  
+- 📱 Specialist in **Flutter**, Android (Java/Kotlin), iOS (Swift)  
+- 🌐 Building full-stack web apps with **Next.js**, **GraphQL**, **MongoDB**  
+- 🎯 Focused on performance, scalability & clean code  
+- 🧠 Always learning and sharing new tech trends  
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift,java,js,ts,react,nextjs,nodejs,graphql,express,mongodb,vscode,git,github,figma,xcode" />
 </div>
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmolPatil-Git&show_icons=true&theme=onedark&hide_border=true" alt="Amol's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolPatil-Git&layout=compact&theme=onedark&hide_border=true" alt="Amol's Top Languages">
-</div>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmolPatil-Git&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolPatil-Git&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-### 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmolPatil-Git&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies">
-</div>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmolPatil-Git&theme=gruvbox&column=6&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-### 🚀 Tech Stack & Tools  
-#### Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+## 📊 GitHub Contribution Graph
 
-#### Web Development  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-#### Tools & Version Control  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmolPatil-Git&theme=react-dark" />
+</p>
 
 ---
 
-### 📫 Let's Connect  
-<div align="center">
-  <a href="https://github.com/AmolPatil-Git">
-    <img src="https://img.shields.io/badge/GitHub-@AmolPatil--Git-181717?style=flat&logo=github" alt="GitHub">
-  </a>
-  <a href="https://devamolpatil.in/">
-    <img src="https://img.shields.io/badge/Website-Visit%20Now-orange?style=flat&logo=google-chrome" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/amol-patil-372641165/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amol%20Patil-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/amol1781994">
-    <img src="https://img.shields.io/badge/Twitter-@amol1781994-1DA1F2?style=flat&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/amol1781994/">
-    <img src="https://img.shields.io/badge/Instagram-@amol1781994-E4405F?style=flat&logo=instagram" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100008380546793">
-    <img src="https://img.shields.io/badge/Facebook-Amol%20Patil-1877F2?style=flat&logo=facebook" alt="Facebook">
-  </a>
-</div>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://devamolpatil.in/"><img src="https://img.shields.io/badge/Website-devamolpatil.in-orange?style=for-the-badge&logo=Google-Chrome" /></a>
+  <a href="https://linkedin.com/in/amol-patil-372641165"><img src="https://img.shields.io/badge/LinkedIn-Amol%20Patil-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/amol1781994"><img src="https://img.shields.io/badge/Twitter-@amol1781994-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://instagram.com/amol1781994"><img src="https://img.shields.io/badge/Instagram-@amol1781994-E4405F?style=for-the-badge&logo=instagram" /></a>
+</p>
 
 ---
 
-<div align="center">
-  ⭐ **Feel free to check out my repositories and contribute!**  
-</div>
+<p align="center">
+  🔥 _"Never stop creating new ideas!"_ 🔥
+</p>
