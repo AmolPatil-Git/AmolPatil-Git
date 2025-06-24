@@ -1,5 +1,3 @@
-
-
 <div align="center">
   # Hi there, I'm Amol! 👋  
   
@@ -9,17 +7,30 @@
 ### About Me  
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
-    - 👋 Hi, I’m **Amol Patil** [(@AmolPatil-Git)](https://github.com/AmolPatil-Git)  
-    - 🌍 Visit my website: [devamolpatil.in](https://devamolpatil.in/)  
+    <img src="./images/amol.gif" width="150" height="150" alt="Amol Patil's Coding GIF">
+  </div>
+  <div>
+    - 👋 I’m **Amol Patil**  
+      GitHub: https://github.com/AmolPatil-Git  
+    - 🌍 Website: https://devamolpatil.in/  
     - 👀 Passionate about **Mobile Application Development** 📱  
-    - 🎯 Skilled in **Flutter, Android, iOS, and MERN Stack**  
-    - 🔥 Always eager to explore **new technologies** and build **innovative software solutions**  
+    - 🎯 Skills:  
+      ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+      ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+      ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+      ![MERN Stack](https://img.shields.io/badge/MERN_Stack-000000?style=flat&logo=mongodb&logoColor=white)
+    - 🔥 Eager to explore **new technologies** and build **innovative software solutions**  
     - 😄 Pronouns: **Software Developer**  
     - 💡 Motto: _"Never stop creating new ideas!"_  
   </div>
-  <div>
-    <img src="./images/amol.gif" width="150" height="150" alt="Amol's Coding GIF">
-  </div>
+</div>
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmolPatil-Git&show_icons=true&theme=onedark&hide_border=true" alt="Amol's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolPatil-Git&layout=compact&theme=onedark&hide_border=true" alt="Amol's Top Languages">
 </div>
 
 ---
