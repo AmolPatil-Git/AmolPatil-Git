@@ -45,17 +45,7 @@ I’m **Amol Patil**, a passionate and curious **Software Developer** who builds
 
 ---
 
-## ⚡ Useful & Vercel Badges
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AmolPatil-Git&style=flat-square&color=blue" alt="Profile views" />
-  <a href="https://devamolpatil.in">
-    <img src="https://vercelbadge.vercel.app/api/devamolpatil.in" alt="Vercel Deployment Status" />
-  </a>
-  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdevamolpatil.in" alt="Website Status" />
-</p>
-
----
 
 ## 📈 GitHub Stats
 
