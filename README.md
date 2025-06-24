@@ -1,11 +1,6 @@
 # Hi there, I'm Amol! 👋  
 <img src="./images/2.png" width="300" height="300" alt="Amol's Profile Image" align="center">  
 
-<!---  
-# Hi there, I'm Amol! 👋  
-<img src="./images/1.gif" width="300" height="300" alt="Animated GIF" align="center">  
---->  
-
 ## I'm a Software Developer specializing in Mobile App Development 🚀  
 <img src="./images/amol.gif" width="300" height="300" alt="Amol's Coding GIF" align="right">  
 
@@ -36,16 +31,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@amol1781994-E4405F?style=flat&logo=instagram)](https://www.instagram.com/amol1781994/)  
 [![Facebook](https://img.shields.io/badge/Facebook-Amol%20Patil-1877F2?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100008380546793)  
 
----  
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AmolPatil-Git/AmolPatil-Git/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AmolPatil-Git/AmolPatil-Git/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/AmolPatil-Git/AmolPatil-Git/blob/output/github-snake.svg" />
-</picture>
+---
 
 ⭐ **Feel free to check out my repositories and contribute!**  
-
-
-
