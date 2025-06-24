@@ -1,51 +1,101 @@
-# Hi there, I'm Amol! 👋  
-<img src="./images/2.png" width="300" height="300" alt="Amol's Profile Image" align="center">  
+<h1 align="center">Hi there, I'm Amol Patil! 👋</h1>
 
-<!---  
-# Hi there, I'm Amol! 👋  
-<img src="./images/1.gif" width="300" height="300" alt="Animated GIF" align="center">  
---->  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/103609908?v=4" width="150" height="150" style="border-radius: 50%" alt="Amol Patil Profile Picture" />
+</p>
 
-## I'm a Software Developer specializing in Mobile App Development 🚀  
-<img src="./images/amol.gif" width="300" height="300" alt="Amol's Coding GIF" align="right">  
-
-### About Me  
-- 👋 Hi, I’m **Amol Patil** [(@AmolPatil-Git)](https://github.com/AmolPatil-Git)  
-- 🌍 Visit my website: [devamolpatil.in](https://devamolpatil.in/)  
-- 👀 Passionate about **Mobile Application Development** 📱  
-- 🎯 Skilled in **Flutter, Android, iOS, and MERN Stack**  
-- 🔥 Always eager to explore **new technologies** and build **innovative software solutions**  
-- 😄 Pronouns: **Software Developer**  
-- 💡 Motto: _"Never stop creating new ideas!"_  
+<p align="center">
+  <a href="https://devamolpatil.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-devamolpatil.in-orange?style=flat-square&logo=google-chrome" />
+  </a>
+  <a href="https://linkedin.com/in/amol-patil-372641165" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amol%20Patil-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://x.com/amol1781994" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@amol1781994-1DA1F2?style=flat-square&logo=twitter" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Tech Stack & Tools  
-- **Mobile:** Flutter, Android (Java/Kotlin), iOS (Swift)  
-- **Web:** MERN Stack (MongoDB, Express.js, React, Node.js)  
-- **Version Control:** Git & GitHub  
-- **Tools & IDEs:** VS Code, Android Studio, Xcode  
+## 👨‍💻 About Me
+
+I’m **Amol Patil**, a passionate and curious **Software Developer** with a strong drive to craft robust, user-focused digital experiences. I thrive on blending creativity with logic to build mobile and web apps that make a difference.
+
+✨ I specialize in both **Mobile App Development** and **Full-Stack Web Development** using modern technologies.  
+🚀 Currently growing in the **Flutter** and **MERN Stack** ecosystems.  
+🧩 I enjoy solving problems, learning new tech, and improving performance & user experience.  
+💬 I'm always open to collaborating on meaningful projects or startups.
+
+> _“Turning ideas into interactive realities is what keeps me coding every day.”_
 
 ---
 
-### 📫 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-@AmolPatil--Git-181717?style=flat&logo=github)](https://github.com/AmolPatil-Git)  
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-orange?style=flat&logo=google-chrome)](https://devamolpatil.in/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amol%20Patil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amol-patil-372641165/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@amol1781994-1DA1F2?style=flat&logo=twitter)](https://x.com/amol1781994)  
-[![Instagram](https://img.shields.io/badge/Instagram-@amol1781994-E4405F?style=flat&logo=instagram)](https://www.instagram.com/amol1781994/)  
-[![Facebook](https://img.shields.io/badge/Facebook-Amol%20Patil-1877F2?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100008380546793)  
+## 🛠️ Tech Stack
 
----  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift,java,js,ts,react,nextjs,nodejs,express,graphql,mongodb,figma,vscode,git,github,xcode,html,css" />
+</div>
 
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AmolPatil-Git/AmolPatil-Git/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AmolPatil-Git/AmolPatil-Git/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/AmolPatil-Git/AmolPatil-Git/blob/output/github-snake.svg" />
-</picture>
+## 📈 GitHub Stats
 
-⭐ **Feel free to check out my repositories and contribute!**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmolPatil-Git&show_icons=true&theme=github_dark&hide=prs&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolPatil-Git&layout=compact&theme=github_dark" height="165" />
+</p>
 
+---
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmolPatil-Git&theme=onedark&no-frame=true&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🔍 Current Focus
+
+- Building advanced UIs with **Flutter** & **Next.js**
+- Learning best practices in **GraphQL**, **MongoDB Aggregations**, and **Serverless Functions**
+- Experimenting with **AI APIs** and **modern UI frameworks**
+- Optimizing apps for performance, SEO, and accessibility
+
+---
+
+## ✨ Fun Facts
+
+- 🧘 I enjoy experimenting with creative UI animations  
+- 📷 Love capturing moments & landscapes  
+- 📚 I'm a big fan of tech articles, clean documentation, and productivity tools  
+- 🧠 Believer in **"Consistency beats intensity"**
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:devamolpatil.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devamolpatil.in@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://devamolpatil.in">
+    <img src="https://img.shields.io/badge/Portfolio-devamolpatil.in-orange?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://linkedin.com/in/amol-patil-372641165">
+    <img src="https://img.shields.io/badge/LinkedIn-Amol%20Patil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/amol1781994">
+    <img src="https://img.shields.io/badge/Twitter-@amol1781994-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://instagram.com/amol1781994">
+    <img src="https://img.shields.io/badge/Instagram-@amol1781994-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 _"Never stop creating new ideas!"_
+</p>
