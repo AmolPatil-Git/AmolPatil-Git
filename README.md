@@ -1,11 +1,14 @@
 <h1 align="center">Hi there, I'm Amol Patil! 👋</h1>
 
-<!-- ✅ Typing animation (works on GitHub) -->
+<!-- ✅ Typing animation (works on GitHub) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Amol+Patil;+%F0%9F%92%BB+Software+Developer;%7C+Flutter+%7C+Android+%7C+iOS+%7C+MERN+;MongoDB%2C+Express%2C+React%2C+Node;%7C+Next.js+%7C+GraphQL;%F0%9F%9A%80+Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+-->
+
 <!-- 👤 Profile picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/103609908?v=4" width="150" height="150" style="border-radius: 50%" alt="Amol Patil Profile Picture" />
 </p>
+<!-- ✅ Typing animation (works on GitHub) -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Amol+Patil;+%F0%9F%92%BB+Software+Developer;%7C+Flutter+%7C+Android+%7C+iOS+%7C+MERN+;MongoDB%2C+Express%2C+React%2C+Node;%7C+Next.js+%7C+GraphQL;%F0%9F%9A%80+Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
 </p>
