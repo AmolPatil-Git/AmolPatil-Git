@@ -2,7 +2,7 @@
 
 <!-- ✅ Typing animation (works on GitHub) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Hi+I'm+Amol+Patil!+👋;Software+Developer+%7C+Mobile+%26+Web+Dev;Flutter+%7C+MERN+%7C+Next.js+%7C+GraphQL;Let's+build+something+amazing+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hi+I'm+Amol+Patil!;Flutter+%7C+MERN+%7C+Next.js+%7C+GraphQL;Let's+Build+Awesome+Things+💻" alt="Typing Animation" />
 </p>
 
 
