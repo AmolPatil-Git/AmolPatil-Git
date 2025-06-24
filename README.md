@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Amol Patil! 👋</h1>
 
-<!-- ✨ Typing animation -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Amol+Patil!+👋;Software+Developer+%7C+Mobile+%26+Web+Dev+Enthusiast;Flutter+%7C+MERN+%7C+Next.js+%7C+GraphQL;Let's+build+something+amazing+💻" alt="Typing SVG" />
-</h3>
+<!-- ✅ Typing animation (works on GitHub) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Hi+I'm+Amol+Patil!+👋;Software+Developer+%7C+Mobile+%26+Web+Dev;Flutter+%7C+MERN+%7C+Next.js+%7C+GraphQL;Let's+build+something+amazing+💻" alt="Typing SVG" />
+</p>
 
 <!-- 👤 Profile picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/103609908?v=4" width="150" height="150" style="border-radius: 50%" alt="Amol Patil Profile Picture" />
 </p>
 
-<!-- 🔗 Badges -->
+<!-- 🔗 Social badges -->
 <p align="center">
   <a href="https://devamolpatil.in">
     <img src="https://img.shields.io/badge/Portfolio-devamolpatil.in-orange?style=flat-square&logo=google-chrome" />
@@ -45,7 +45,17 @@ I’m **Amol Patil**, a passionate and curious **Software Developer** who builds
 
 ---
 
+## ⚡ Useful & Vercel Badges
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AmolPatil-Git&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://devamolpatil.in">
+    <img src="https://vercelbadge.vercel.app/api/devamolpatil.in" alt="Vercel Deployment Status" />
+  </a>
+  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdevamolpatil.in" alt="Website Status" />
+</p>
+
+---
 
 ## 📈 GitHub Stats
 
