@@ -1,17 +1,24 @@
 <h1 align="center">Hi there, I'm Amol Patil! 👋</h1>
 
+<!-- ✨ Typing animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Amol+Patil!+👋;Software+Developer+%7C+Mobile+%26+Web+Dev+Enthusiast;Flutter+%7C+MERN+%7C+Next.js+%7C+GraphQL;Let's+build+something+amazing+💻" alt="Typing SVG" />
+</h3>
+
+<!-- 👤 Profile picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/103609908?v=4" width="150" height="150" style="border-radius: 50%" alt="Amol Patil Profile Picture" />
 </p>
 
+<!-- 🔗 Badges -->
 <p align="center">
-  <a href="https://devamolpatil.in" target="_blank">
+  <a href="https://devamolpatil.in">
     <img src="https://img.shields.io/badge/Portfolio-devamolpatil.in-orange?style=flat-square&logo=google-chrome" />
   </a>
-  <a href="https://linkedin.com/in/amol-patil-372641165" target="_blank">
+  <a href="https://linkedin.com/in/amol-patil-372641165">
     <img src="https://img.shields.io/badge/LinkedIn-Amol%20Patil-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://x.com/amol1781994" target="_blank">
+  <a href="https://x.com/amol1781994">
     <img src="https://img.shields.io/badge/Twitter-@amol1781994-1DA1F2?style=flat-square&logo=twitter" />
   </a>
 </p>
@@ -20,12 +27,11 @@
 
 ## 👨‍💻 About Me
 
-I’m **Amol Patil**, a passionate and curious **Software Developer** with a strong drive to craft robust, user-focused digital experiences. I thrive on blending creativity with logic to build mobile and web apps that make a difference.
+I’m **Amol Patil**, a passionate and curious **Software Developer** who builds user-focused digital products. I love blending creativity with problem-solving to craft impactful apps.
 
-✨ I specialize in both **Mobile App Development** and **Full-Stack Web Development** using modern technologies.  
-🚀 Currently growing in the **Flutter** and **MERN Stack** ecosystems.  
-🧩 I enjoy solving problems, learning new tech, and improving performance & user experience.  
-💬 I'm always open to collaborating on meaningful projects or startups.
+✨ Specialized in **Mobile App Development** and **Full-Stack Web Development** using modern technologies.  
+🚀 Growing fast in **Flutter**, **MERN Stack**, and **GraphQL**.  
+🧩 Curious, consistent, and excited to build meaningful tech experiences.
 
 > _“Turning ideas into interactive realities is what keeps me coding every day.”_
 
@@ -39,11 +45,31 @@ I’m **Amol Patil**, a passionate and curious **Software Developer** with a str
 
 ---
 
+## ⚡ Useful & Vercel Badges
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AmolPatil-Git&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://devamolpatil.in">
+    <img src="https://vercelbadge.vercel.app/api/devamolpatil.in" alt="Vercel Deployment Status" />
+  </a>
+  <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fdevamolpatil.in" alt="Website Status" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmolPatil-Git&show_icons=true&theme=github_dark&hide=prs&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolPatil-Git&layout=compact&theme=github_dark" height="165" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmolPatil-Git&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -58,19 +84,19 @@ I’m **Amol Patil**, a passionate and curious **Software Developer** with a str
 
 ## 🔍 Current Focus
 
-- Building advanced UIs with **Flutter** & **Next.js**
-- Learning best practices in **GraphQL**, **MongoDB Aggregations**, and **Serverless Functions**
-- Experimenting with **AI APIs** and **modern UI frameworks**
-- Optimizing apps for performance, SEO, and accessibility
+- Advanced UI with **Flutter** and **Next.js**  
+- Deep-diving into **GraphQL**, MongoDB Aggregations  
+- Exploring **AI APIs** and **serverless tech**  
+- Writing clean, testable, SEO-friendly code
 
 ---
 
 ## ✨ Fun Facts
 
-- 🧘 I enjoy experimenting with creative UI animations  
-- 📷 Love capturing moments & landscapes  
-- 📚 I'm a big fan of tech articles, clean documentation, and productivity tools  
-- 🧠 Believer in **"Consistency beats intensity"**
+- 🎨 Love experimenting with UI/UX animation  
+- 📷 Passionate about photography and nature  
+- 📚 Tech reader + productivity geek  
+- 🧘 Calm coder with a curious mind  
 
 ---
 
